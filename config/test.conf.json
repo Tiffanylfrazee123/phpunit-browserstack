@@ -1,32 +1,32 @@
 {
-  "user": "BROWSERSTACK_USERNAME",
-  "key": "BROWSERSTACK_ACCESS_KEY",
-
+  "user": "tiffanylfrazee_HkFhYi",
+  "key": "WxbsWPVBz2ePVHHqV6RN",
   "capabilities": [{
-    "browserName": "chrome",
-    "browserVersion": "latest",
+    "browserName": "safari",
+    "deviceOrientation": "portrait",
     "bstack:options": {
-      "os": "OS X",
-      "osVersion": "Monterey",
+      "deviceName": "iPhone 14 Pro Max",
+      "osVersion": "16",
       "buildName": "browserstack-build-1",
       "sessionName": "BStack phpunit chrome",
       "local": true
     }
   }, {
-    "browserName": "edge",
-    "browserVersion": "latest",
+    "browserName": "safari",
+    "deviceOrientation": "portrait",
     "bstack:options": {
-      "os": "Windows",
-      "osVersion": "11",
+      "deviceName": "iPhone 14 Pro Max",
+      "osVersion": "16",
       "buildName": "browserstack-build-1",
       "sessionName": "BStack phpunit edge",
       "local": true
     }
   }, {
-    "browserName": "chrome",
+    "browserName": "safari",
+    "deviceOrientation": "portrait",
     "bstack:options": {
-      "osVersion": "12.0",
-      "deviceName": "Samsung Galaxy S22 Ultra",
+      "deviceName": "iPhone 14 Pro Max",
+      "osVersion": "16",
       "buildName": "browserstack-build-1",
       "sessionName": "BStack phpunit android",
       "local": true
